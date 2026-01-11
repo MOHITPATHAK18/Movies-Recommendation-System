@@ -24,7 +24,3 @@ It is designed to preprocess textual data, extract meaningful features, and enab
   - `nltk` / `spacy`
   - `scikit-learn`
   - `re` (Regular Expressions)
-
----
-
-## Project Structure
